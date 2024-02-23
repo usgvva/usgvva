@@ -1,0 +1,2 @@
+- @usgvva
+- I’m currently learning c++ and c#
